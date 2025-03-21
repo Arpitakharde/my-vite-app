@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import TodoCard from "./todocart";
+import TodoCard from "./todoCart.jsx";
 import toast, { Toaster } from "react-hot-toast";
 
 function App() {
